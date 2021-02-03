@@ -1,0 +1,1 @@
+    dans les 8 directions autour du pion nouvellement place
