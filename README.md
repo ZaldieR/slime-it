@@ -2,12 +2,12 @@
 I recreated the board game "Rol-it" in python3 and Pygame.
 
 <p align="center">
-  <img width=400px height=300px src="./ressources-readme/title_screen.png">
-  <img width=400px height=300px src="./ressources-readme/select_board.png">
-  <img width=400px height=300px src="./ressources-readme/select_player.png">
-  <img width=400px height=300px src="./ressources-readme/choose_character.png">
-  <img width=400px height=300px src="./ressources-readme/game.png">
-  <img width=400px height=300px src="./ressources-readme/final_screen.png">
+  <img width=400px height=200px src="./ressources-readme/title_screen.png">
+  <img width=400px height=200px src="./ressources-readme/select_board.png">
+  <img width=400px height=200px src="./ressources-readme/select_player.png">
+  <img width=400px height=200px src="./ressources-readme/choose_character.png">
+  <img width=400px height=200px src="./ressources-readme/game.png">
+  <img width=400px height=200px src="./ressources-readme/final_screen.png">
 </p>
 
 ## What's Rol-it ?
